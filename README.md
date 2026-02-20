@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando em: Assistente de Finanças com AI Agents + MCP
 - 🌱 Atualmente aprendendo: SQLAlchemy, testes de integração
 - 💬 Pergunte-me sobre: Python, AI Agents, LLM Engineering
-- 📫 Como me encontrar: [LinkedIn]([seu-link](https://www.linkedin.com/in/luciene-godoy-b8670a179/))
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/luciene-godoy-b8670a179/)
 Data Science • AI Agents • Software Engineering • Matemática
 
 ---
