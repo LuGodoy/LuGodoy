@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Lu 
 
-<!--
-**LuGodoy/LuGodoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalhando em: Assistente de Finanças com AI Agents + MCP
+- 🌱 Atualmente aprendendo: SQLAlchemy, testes de integração
+- 💬 Pergunte-me sobre: Python, AI Agents, LLM Engineering
+- 📫 Como me encontrar: [LinkedIn](seu-link)
+Data Science • AI Agents • Software Engineering • Matemática
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que Domino
+
+![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-red.svg)
+
+----
+
+## 📌 Projetos em Destaque
+
+- 💰 [Assistente de Finanças](https://github.com/LuGodoy) — AI Agent com MCP + Gemini + MySQL
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/luciene-godoy-b8670a179/)
