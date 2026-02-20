@@ -14,6 +14,10 @@ Data Science • AI Agents • Software Engineering • Matemática
 ![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red.svg)
 
+**IA & LLM**
+![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/Architecture-MCP-green)
+
 **Banco de Dados**
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?logo=amazondynamodb&logoColor=white)
@@ -21,6 +25,7 @@ Data Science • AI Agents • Software Engineering • Matemática
 **Cloud AWS**
 ![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=awslambda&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS-S3-FF9900?logo=amazons3&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-FF9900?logo=amazonaws&logoColor=white)
 
 ----
 
