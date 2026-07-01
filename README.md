@@ -1,5 +1,6 @@
 <img align="right" src="img_perfil.png" width="300">
 
+---
 # Olá, eu sou Lu 
 Sou desenvolvedora focada em **Data Science**, **AI Agents** e **Software Engineering**. 
 Tenho paixão por resolver problemas complexos combinando tecnologia, inteligência artificial e minha sólida bagagem em matemática.
