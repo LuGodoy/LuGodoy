@@ -1,4 +1,4 @@
-<img align="right" src="img_perfil.png" width="300">
+<img align="right" src="LuGodoy.png" width="300">
 
 
 
