@@ -1,4 +1,6 @@
 # Olá, eu sou Lu 
+Sou desenvolvedora focada em **Data Science**, **AI Agents** e **Software Engineering**. 
+Tenho paixão por resolver problemas complexos combinando tecnologia, inteligência artificial e minha sólida bagagem em matemática.
 
 - 🔭 Atualmente trabalhando em: Assistente de Finanças com AI Agents + MCP
 - 🌱 Atualmente aprendendo: SQLAlchemy, testes de integração
