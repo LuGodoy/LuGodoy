@@ -1,8 +1,5 @@
 <img align="right" src="LuGodoy.png" width="300">
 
-
-
-
 <br>
 
 # Olá, eu sou Lu 
@@ -15,33 +12,6 @@ Tenho paixão por resolver problemas complexos combinando tecnologia, inteligên
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/luciene-godoy-b8670a179/)
 Data Science • AI Agents • Software Engineering • Matemática
 
----
+🚀 **Linguagens & Frameworks:** Python (3.13+), Streamlit, MySQL e SQLAlchemy
 
-## 🛠️ Tecnologias que Domino
-
-**Linguagens & Frameworks**
-![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-red.svg)
-
-**IA & LLM**
-![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?logo=google&logoColor=white)
-![MCP](https://img.shields.io/badge/Architecture-MCP-green)
-
-**Banco de Dados**
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)
-![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?logo=amazondynamodb&logoColor=white)
-
-**Cloud AWS**
-![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=awslambda&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS-S3-FF9900?logo=amazons3&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-FF9900?logo=amazonaws&logoColor=white)
-
-----
-
-## 📌 Projetos em Destaque
-
-- 💰 [Assistente de Finanças](https://github.com/LuGodoy/finance-agent-mcp) — AI Agent com MCP + Gemini + MySQL
-
-## 📫 Contato
-
-[LinkedIn](https://www.linkedin.com/in/luciene-godoy-b8670a179/)
+💼 **Ferramentas de IA & Cloud:** Google Gemini, Model Context Protocol (MCP), Amazon Bedrock, AWS Lambda, S3 e DynamoDB
